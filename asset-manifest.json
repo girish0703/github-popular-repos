@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-popular-repos/static/css/main.68beb493.chunk.css",
+    "main.js": "/github-popular-repos/static/js/main.832be690.chunk.js",
+    "main.js.map": "/github-popular-repos/static/js/main.832be690.chunk.js.map",
+    "runtime-main.js": "/github-popular-repos/static/js/runtime-main.0434cc39.js",
+    "runtime-main.js.map": "/github-popular-repos/static/js/runtime-main.0434cc39.js.map",
+    "static/js/2.b6fa2ce4.chunk.js": "/github-popular-repos/static/js/2.b6fa2ce4.chunk.js",
+    "static/js/2.b6fa2ce4.chunk.js.map": "/github-popular-repos/static/js/2.b6fa2ce4.chunk.js.map",
+    "index.html": "/github-popular-repos/index.html",
+    "static/css/main.68beb493.chunk.css.map": "/github-popular-repos/static/css/main.68beb493.chunk.css.map",
+    "static/js/2.b6fa2ce4.chunk.js.LICENSE.txt": "/github-popular-repos/static/js/2.b6fa2ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0434cc39.js",
+    "static/js/2.b6fa2ce4.chunk.js",
+    "static/css/main.68beb493.chunk.css",
+    "static/js/main.832be690.chunk.js"
+  ]
+}
